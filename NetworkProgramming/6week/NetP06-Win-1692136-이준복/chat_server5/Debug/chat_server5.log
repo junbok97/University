@@ -1,0 +1,5 @@
+﻿  chat_server5.c
+C:\Users\junbok\Desktop\JUNBOK\대학\2021 - 2학기\네트워크 프로그래밍\6week\NetP06-Win\chat_server5\chat_server5.c(192,17): warning C4473: 'sscanf': 서식 문자열에 대한 인수가 충분하게 전달되지 않았습니다.
+C:\Users\junbok\Desktop\JUNBOK\대학\2021 - 2학기\네트워크 프로그래밍\6week\NetP06-Win\chat_server5\chat_server5.c(192,17): message : 자리 표시자 및 해당 매개 변수에는 variadic 인수가 5개 필요하지만 4개가 제공되었습니다.
+C:\Users\junbok\Desktop\JUNBOK\대학\2021 - 2학기\네트워크 프로그래밍\6week\NetP06-Win\chat_server5\chat_server5.c(192,17): message : 누락된 variadic 인수 5이(가) 서식 문자열 '%s'에 필요합니다.
+  chat_server5.vcxproj -> C:\Users\junbok\Desktop\JUNBOK\대학\2021 - 2학기\네트워크 프로그래밍\6week\NetP06-Win\Debug\chat_server5.exe

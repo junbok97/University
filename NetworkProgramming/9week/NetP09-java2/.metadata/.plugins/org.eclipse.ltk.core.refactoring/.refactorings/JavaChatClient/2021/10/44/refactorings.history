@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<session version="1.0">
+<refactoring comment="Rename resource &apos;JavaChatClient/src/상상부기 3.png&apos; to &apos;상상부기.png&apos;" description="Rename resource &apos;상상부기 3.png&apos;" flags="7" id="org.eclipse.ltk.core.refactoring.rename.resource" input="src/상상부기 3.png" name="상상부기.png" stamp="1635398736764" updateReferences="true"/>
+</session>
