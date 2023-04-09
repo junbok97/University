@@ -1,0 +1,115 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="4cfc5653-98ea-4cab-ab0f-8865673157b4" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="CoverageViewManager">
+    <option name="myElementSize" value="15" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Enum" />
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectId" id="1jnkIIoMiY1jBjJ3tCHWzpXvFsS" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="settings.editor.selected.configurable" value="configurable.group.appearance" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\User\insang" />
+    </key>
+    <key name="CopyClassDialog.RECENTS_KEY">
+      <recent name="" />
+    </key>
+    <key name="CreateClassDialog.RecentsKey">
+      <recent name="" />
+    </key>
+  </component>
+  <component name="RunManager" selected="Application.MazeCreator">
+    <configuration name="Input" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Input" />
+      <module name="mazegame" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="MazeCreator" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="MazeCreator" />
+      <module name="mazegame" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="SimpleMazeGame" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="SimpleMazeGame" />
+      <module name="mazegame" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.MazeCreator" />
+        <item itemvalue="Application.SimpleMazeGame" />
+        <item itemvalue="Application.Input" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="4cfc5653-98ea-4cab-ab0f-8865673157b4" name="Default Changelist" comment="" />
+      <created>1604447161737</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1604447161737</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="402" y="0" key="#com.intellij.ide.util.MemberChooser" timestamp="1604977046520">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state x="402" y="0" key="#com.intellij.ide.util.MemberChooser/0.0.1280.680@0.0.1280.680" timestamp="1604977046520" />
+    <state x="371" y="0" key="FileChooserDialogImpl" timestamp="1604973413986">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state x="371" y="0" key="FileChooserDialogImpl/0.0.1280.680@0.0.1280.680" timestamp="1604973413986" />
+    <state width="1225" height="243" key="GridCell.Tab.0.bottom" timestamp="1604977734526">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state width="1225" height="243" key="GridCell.Tab.0.bottom/0.0.1280.680@0.0.1280.680" timestamp="1604977734526" />
+    <state width="1225" height="243" key="GridCell.Tab.0.center" timestamp="1604977734526">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state width="1225" height="243" key="GridCell.Tab.0.center/0.0.1280.680@0.0.1280.680" timestamp="1604977734526" />
+    <state width="1225" height="243" key="GridCell.Tab.0.left" timestamp="1604977734526">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state width="1225" height="243" key="GridCell.Tab.0.left/0.0.1280.680@0.0.1280.680" timestamp="1604977734526" />
+    <state width="1225" height="243" key="GridCell.Tab.0.right" timestamp="1604977734526">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state width="1225" height="243" key="GridCell.Tab.0.right/0.0.1280.680@0.0.1280.680" timestamp="1604977734526" />
+  </component>
+  <component name="com.intellij.coverage.CoverageDataManagerImpl">
+    <SUITE FILE_PATH="coverage/mazegame$SimpleMazeGame.ic" NAME="SimpleMazeGame Coverage Results" MODIFIED="1604624049894" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" />
+  </component>
+</project>
