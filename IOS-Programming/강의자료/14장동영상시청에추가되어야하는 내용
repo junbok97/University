@@ -1,0 +1,12 @@
+슬라이드33:  
+    - https://developer.apple.com/kr/machine-learning/models/
+    - SqueezeNet을 선택하고 SqueezeNet.mlmodel을 다운받아 프로젝트에 포함시켜라
+슬라이드38:
+    - LiveImageViewController.swift에서 클래스 변수를 선언하라
+        var request: VNCoreMLRequest! 
+        var detectionOverlay: CALayer! 
+        var videoBufferSize = CGSize()
+    - YOLOv3.mlmodel 다운로드
+        https://developer.apple.com/machine-learning/models에서 YOLOv3.mlmodel을 다운받아 프로젝트에 포함하라
+
+
